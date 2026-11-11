@@ -1,8 +1,10 @@
-# Upgate Digital
+![Upgate Digital](assets/banner.svg)
 
 ERP, websites and SEO for UAE businesses. Based in Dubai.
 
 Upgate Digital helps UAE businesses run their whole operation on one system. We implement an open-source ERP, build websites and ecommerce stores connected to it, and handle SEO so customers can find you.
+
+![What we do](assets/services.svg)
 
 ## What we do
 
