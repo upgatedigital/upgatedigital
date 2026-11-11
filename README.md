@@ -1,16 +1,23 @@
-## Hi there 👋
+# Upgate Digital
 
-<!--
-**upgatedigital/upgatedigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ERP, websites and SEO for UAE businesses. Based in Dubai.
 
-Here are some ideas to get you started:
+Upgate Digital helps UAE businesses run their whole operation on one system. We implement an open-source ERP, build websites and ecommerce stores connected to it, and handle SEO so customers can find you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What we do
+
+ERP implementation: setup configured for UAE VAT and AED, custom dashboards and workflows, an AI assistant to ask questions about your business data, and readiness for UAE e-invoicing (PINT-AE).
+
+Website and ecommerce: sites and online stores connected to your ERP.
+
+SEO: search optimisation for UAE businesses.
+
+## Why Upgate Digital
+
+Lifetime access, unlimited users and 6 months of support after go-live. No per-user licence fees as your team grows.
+
+## Contact
+
+Website: https://upgatedigital.com
+
+Book a free demo on the website. We reply within one business day.
